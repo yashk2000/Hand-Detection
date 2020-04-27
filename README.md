@@ -14,6 +14,8 @@ Then open the app in android studio. To get the app running, android-ndk also ne
 
 The app uses the phone GPU to detect hands in real time with a good accuracy. 
 
+The APK can be downloaded directly and installed from the [APK](https://github.com/yashk2000/Hand-Detection/blob/master/APK/Hand%20Detection%20GPU.apk) folder in the repo. 
+
 Here is how the app looks in action:
 
 <img src="https://user-images.githubusercontent.com/41234408/80405981-faccd080-88e0-11ea-9c65-5c93e9c2d595.jpg" heigth="500" width="300" />
