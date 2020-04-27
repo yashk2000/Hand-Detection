@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.yashk2000.handdetection;
 
 import android.graphics.SurfaceTexture;
 import android.os.Build;
@@ -8,13 +8,10 @@ import androidx.annotation.RequiresApi;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.util.Size;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
 import com.google.mediapipe.components.CameraHelper;
 import com.google.mediapipe.components.CameraXPreviewHelper;

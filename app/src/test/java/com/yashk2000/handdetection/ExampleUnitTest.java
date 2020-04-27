@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.yashk2000.handdetection;
 
 import org.junit.Test;
 

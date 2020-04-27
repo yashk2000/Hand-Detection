@@ -118,7 +118,6 @@
     <orderEntry type="library" name="Gradle: org.codehaus.mojo:animal-sniffer-annotations:1.17@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.protobuf:protobuf-java:3.11.4@jar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.auto.value:auto-value-annotations:1.6.3@jar" level="project" />
-    <orderEntry type="library" name="Gradle: __local_aars__:./app/libs/hand_detection_aar.aar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.camera:camera-camera2:1.0.0-alpha06@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.camera:camera-core:1.0.0-alpha06@aar" level="project" />
